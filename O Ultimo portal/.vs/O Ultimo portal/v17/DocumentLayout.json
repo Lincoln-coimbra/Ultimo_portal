@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\",
+  "WorkspaceRootPath": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\source\\repos\\o ultimo portal\\o ultimo portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\poder\\raio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\poder\\raio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\poder\\gelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\poder\\gelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\poder\\fogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\poder\\fogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\o ultimo portal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\o ultimo portal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\npcs\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\npcs\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|c:\\users\\lincoln\\desktop\\projetorpg\\ultimo_portal\\o ultimo portal\\o ultimo portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2699A385-7847-43B6-8662-BCE0F3007785}|O Ultimo portal\\O Ultimo portal.csproj|solutionrelative:o ultimo portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,19 +39,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\O Ultimo portal\\Program.cs",
-              "RelativeDocumentMoniker": "O Ultimo portal\\Program.cs",
-              "ToolTip": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\O Ultimo portal\\Program.cs",
-              "RelativeToolTip": "O Ultimo portal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Raio.cs",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\Raio.cs",
+              "RelativeDocumentMoniker": "O Ultimo portal\\Poder\\Raio.cs",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\Raio.cs",
+              "RelativeToolTip": "O Ultimo portal\\Poder\\Raio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:54:09.555Z",
+              "WhenOpened": "2025-04-08T00:25:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gelo.cs",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\Gelo.cs",
+              "RelativeDocumentMoniker": "O Ultimo portal\\Poder\\Gelo.cs",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\Gelo.cs",
+              "RelativeToolTip": "O Ultimo portal\\Poder\\Gelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:25:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fogo.cs",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\fogo.cs",
+              "RelativeDocumentMoniker": "O Ultimo portal\\Poder\\fogo.cs",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Poder\\fogo.cs",
+              "RelativeToolTip": "O Ultimo portal\\Poder\\fogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:24:31.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Npcs\\Inimigo.cs",
+              "RelativeDocumentMoniker": "O Ultimo portal\\Npcs\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Npcs\\Inimigo.cs",
+              "RelativeToolTip": "O Ultimo portal\\Npcs\\Inimigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:06:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "O Ultimo portal",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
+              "RelativeDocumentMoniker": "O Ultimo portal\\O Ultimo portal.csproj",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
+              "RelativeToolTip": "O Ultimo portal\\O Ultimo portal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T00:03:11.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Program.cs",
+              "RelativeDocumentMoniker": "O Ultimo portal\\Program.cs",
+              "ToolTip": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\Program.cs",
+              "RelativeToolTip": "O Ultimo portal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:54:09.555Z",
+              "EditorCaption": ""
             }
           ]
         }

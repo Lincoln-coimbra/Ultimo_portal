@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
+      "projectUniqueName": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
       "projectName": "O Ultimo portal",
-      "projectPath": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
+      "projectPath": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\O Ultimo portal.csproj",
       "packagesPath": "C:\\Users\\Lincoln\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lincoln\\source\\repos\\O Ultimo portal\\O Ultimo portal\\obj\\",
+      "outputPath": "C:\\Users\\Lincoln\\Desktop\\projetorpg\\Ultimo_portal\\O Ultimo portal\\O Ultimo portal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
