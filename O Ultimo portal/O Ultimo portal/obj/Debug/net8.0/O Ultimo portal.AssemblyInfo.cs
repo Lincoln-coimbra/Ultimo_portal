@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("O Ultimo portal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc32e3370c676556fb7e63f8564bc3e79fdbebd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c023788088200216139a1dd93050378b6173c07b")]
 [assembly: System.Reflection.AssemblyProductAttribute("O Ultimo portal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("O Ultimo portal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
